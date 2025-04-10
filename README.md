@@ -40,8 +40,10 @@
 
 ## 📊 GitHub Stats:
 ![AishRev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishRev&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AishRev&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishRev&layout=compact&theme=github_dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AishRev&theme=dark&hide_border=false)](https://git.io/AishRev)
 
 ---
 
