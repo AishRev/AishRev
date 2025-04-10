@@ -43,8 +43,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishRev&layout=compact&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AishRev&theme=dark&hide_border=false)](https://streak-stats.demolab.com)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AishRev&theme=dark)](https://git.io/streak-stats)
 
 ---
 
