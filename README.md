@@ -3,8 +3,8 @@
 ## 👩‍💻 About Me:
 - 🔭 I’m currently working on exciting **MERN Stack** and **AI/ML** projects.
 - 🤖 Passionate about building intelligent web applications using ML & automation.
-- 🛩️ **Avionics Head** @ Team Vaayushastra – built the GUI and custom PCB for the RC plane's base station, also worked with many IOT developement software
-- 🕹️ Collaborated as Game Dev Intern – created 3D models and animations using **Blender** and **Unreal Engine**.
+- 🛩️ **Avionics Head** @ Team Vaayushastra – built the GUI and custom PCB for the RC plane's base station, also have hands-on experience with various IoT development platforms and software.
+- 🕹️ Worked as Game Dev Intern – created 3D models and animations using **Blender** and **Unreal Engine**.
 - 💬 Always curious about tech that blends **AI, UX, and Web Dev**.
 
 ## 🧠 Interests & Hobbies:
