@@ -1,4 +1,4 @@
-# Hello there, I'm Aishwarya Sreejith 👋
+# Hello there, I'm Aishwarya Sreejith 👋🏻
 
 ## 👩‍💻 About Me:
 - 🔭 I’m currently working on exciting **MERN Stack** and **AI/ML** projects.
