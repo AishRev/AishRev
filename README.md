@@ -1,4 +1,5 @@
-# Hello there, I'm Aishwarya Sreejith 👋🏻
+# Hello there, I'm Aishwarya Sreejith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 ## 👩‍💻 About Me:
 - 🔭 I’m currently working on exciting **MERN Stack** and **AI/ML** projects.
